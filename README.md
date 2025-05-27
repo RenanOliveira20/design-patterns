@@ -10,8 +10,8 @@ Some code examples of using design patterns with TypeScript.
 <summary> Singleton </summary>
 
 Only one instance shared for project, for example: 
-databases
-cache
+databases,
+cache,
 logger
 
 </details>
